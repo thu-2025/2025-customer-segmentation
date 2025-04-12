@@ -1,0 +1,6 @@
+CustomerID,Recency,Frequency,Monetary
+C001,30,15,700
+C002,120,3,120
+C003,7,25,950
+C004,60,7,300
+C005,200,1,50
